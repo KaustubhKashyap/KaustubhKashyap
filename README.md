@@ -50,5 +50,5 @@ I'm a student passionate about software development, problem-solving, and data a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaustubhKashyap&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustubhKashyap&theme=tokyonight" />
 </p>
