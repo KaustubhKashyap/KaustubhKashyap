@@ -66,3 +66,18 @@ I'm a student passionate about software development, problem-solving, and data a
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+## 📊 Data Analytics Skills
+
+- Microsoft Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- SQL
+
+## 📈 Data Analytics Projects
+
+🚧 Currently working on Excel and Power BI projects.
+
+More projects coming soon!
