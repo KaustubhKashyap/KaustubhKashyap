@@ -40,3 +40,15 @@ I'm a student passionate about software development, problem-solving, and data a
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/KaustubhKashyap
+
+- ## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode,eclipse" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaustubhKashyap&show_icons=true&theme=tokyonight" />
+</p>
