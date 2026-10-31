@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kaustubh Kashyap 👋
 
-<!--
-**KaustubhKashyap/KaustubhKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Java & DSA | Data Analytics
 
-Here are some ideas to get you started:
+I'm a student passionate about software development, problem-solving, and data analytics. I enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 Practicing Data Structures and Algorithms using Java.
+- 🧩 Solving coding problems on LeetCode.
+- 🗄️ Learning SQL and database management.
+- 📊 Exploring Microsoft Excel and Power BI.
+- 🌱 Continuously improving my development and analytical skills.
+
+### 🛠️ Tech Stack
+
+**Programming:** Java
+
+**Database:** MySQL, Oracle SQL
+
+**Web Technologies:** HTML, CSS, JSP, Servlets
+
+**Data Analytics:** Microsoft Excel, Power BI
+
+**Tools:** Git, GitHub, Eclipse
+
+### 📌 Featured Projects
+
+- [Online Travel Booking Platform](https://github.com/KaustubhKashyap/Online-Travel-Booking-Platform)
+- [Student Result Management System](https://github.com/KaustubhKashyap/ResultManagementSystem)
+- [LeetCode Solutions](https://github.com/KaustubhKashyap/LeetCode-Solutions)
+
+### 📚 Currently Focusing On
+
+- Advanced Java and DSA
+- Binary Search, Arrays, Strings and Dynamic Programming
+- SQL and Data Analysis
+- Building practical Power BI dashboards
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/KaustubhKashyap
